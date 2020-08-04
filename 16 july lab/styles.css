@@ -1,0 +1,44 @@
+.q1 {
+    background-color: #3b5379;
+    text-align: center;
+    display: block;
+    margin: 120px 30px;
+}
+
+.card-styles {
+    padding: 12px 20px;
+}
+
+.spacer {
+    margin-bottom: 100px;
+}
+
+.q2 {
+    margin-top: 12rem;
+}
+
+.top-container {
+    background-color: #70bbda;
+    font-style: italic;
+    align-content: center;
+    text-align: center;
+    padding-top: 40px;
+}
+
+.middle-container {
+    background-color: #ffffff;
+}
+
+.bottom-container {
+    background-color: #ef4c51;
+}
+
+img {
+    width: 100px;
+    height: 100px;
+}
+
+.inliner {
+    display: inline;
+
+}
